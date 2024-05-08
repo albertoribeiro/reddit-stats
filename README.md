@@ -37,3 +37,7 @@ Replace {subreddit} with the name of the subreddit you want to fetch posts from.
 ```bash
 curl -X GET https://localhost:5001/reddit/fetchposts/programming
 ```
+### Swagger
+After accessing the Swagger UI, you can test the functionality by making HTTP GET requests to the specified endpoints.
+
+https://localhost:7226/swagger/index.html
