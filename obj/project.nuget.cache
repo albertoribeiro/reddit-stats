@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "6833+mqkhpMGcZnd89JveT94M9sEMapYHZ+NksROi1Sv7HGe6MT2ame7DJLrhE/aBF5XWfjgzBeGk90D/4pQaA==",
+  "success": true,
+  "projectFilePath": "/home/alberto/dev/pessoal/RedditStatsAPI/RedditStatsAPI.csproj",
+  "expectedPackageFiles": [
+    "/home/alberto/.nuget/packages/microsoft.csharp/4.5.0/microsoft.csharp.4.5.0.nupkg.sha512",
+    "/home/alberto/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/home/alberto/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/home/alberto/.nuget/packages/newtonsoft.json/11.0.2/newtonsoft.json.11.0.2.nupkg.sha512",
+    "/home/alberto/.nuget/packages/reddit/1.5.2/reddit.1.5.2.nupkg.sha512",
+    "/home/alberto/.nuget/packages/restsharp/106.6.9/restsharp.106.6.9.nupkg.sha512",
+    "/home/alberto/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/home/alberto/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/home/alberto/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/home/alberto/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
